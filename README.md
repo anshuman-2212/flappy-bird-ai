@@ -93,7 +93,7 @@ Game will run in browser.
 
 ## 📸 Screenshot
 
-![Flappy Bird Gameplay](screenshot.png)
+![Flappy Bird Gameplay](flappy-bird.png)
 
 
 ---
